@@ -1,5 +1,8 @@
 # secret-triage
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Find leaked secrets in your codebase with confidence scoring and actionable remediation.** Not just pattern matching -- entropy analysis, context awareness, and per-secret remediation steps.
 
 ```bash
